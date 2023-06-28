@@ -1,0 +1,1 @@
+print("anda melakukan subscribe")
